@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestClass_BeforeMethod" tests="2" skipped="1" failures="1" errors="0" timestamp="2021-05-24T13:54:41" hostname="UNIT-1116" time="0.016">
+<testsuite name="TestClass_BeforeMethod" tests="2" skipped="1" failures="1" errors="0" timestamp="2021-05-24T13:55:26" hostname="UNIT-1116" time="0.016">
   <properties/>
   <testcase name="before" classname="TestClass_BeforeMethod" time="0.0">
     <failure message="java.lang.ArithmeticException: / by zero" type="java.lang.ArithmeticException">java.lang.ArithmeticException: / by zero

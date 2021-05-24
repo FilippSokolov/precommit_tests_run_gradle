@@ -10,9 +10,9 @@ TestClassMethodRun.java
  TestClassMethodRun
 TestClass_BeforeFails.java
  TestClass_BeforeFails
-TestClassMethodPasses.java
- TestClassMethodPasses
-TestClass_AfterFails.java
- TestClass_AfterFails
 TestClass_BeforeMethod.java
  TestClass_BeforeMethod
+TestClass_AfterFails.java
+ TestClass_AfterFails
+TestClassMethodPasses.java
+ TestClassMethodPasses
